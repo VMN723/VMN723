@@ -10,7 +10,7 @@ Tớ tên là **Vũ Minh Nghĩa** hay còn có biệt danh là **VMN723** ❄
 
 
 
-**Giới thiệu**
+## ```Giới thiệu```
 
 
 
@@ -36,7 +36,7 @@ Tớ tên là **Vũ Minh Nghĩa** hay còn có biệt danh là **VMN723** ❄
 
 
 
-**Sở thích**
+## ```Sở thích```
 
 
 
