@@ -45,24 +45,11 @@ Tớ tên là **Vũ Minh Nghĩa** hay còn có biệt danh là **VMN723** ❄
 - 🕹️ Thích lướt Facebook, Tiktok, Xem hoạt hình
 
 
-
-**Thông tin liên lạc**
-
-
-
-- 📱 Facebook : [Vũ Minh Nghĩa ](https://www.facebook.com/VMN723)
-
-- 🗞️ Gmail : [minhnghia412200k@gmail.com](minhnghia412200k@gmail.com)
-
-
-- 📲 Zalo : [Zalo](0379638750)
-
-- 💲 Momo : [Vũ Minh Nghĩa](0379638750)
-
--  💵 Mbbank : [Vũ Minh Nghĩa ](699992005)
-
-
-- 💻 Website : [infovuminhnghia](https://infovuminhnghia/?m=1)
-
+## ```Thông Tin Liên Lạc```
+<p align="center">
+  <a href="https://instagram.com/vuminhnghia9"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://www.facebook.com/VMN723"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/VMN723"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://github.com/VMN723"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 - -------------------------------------------------
 - **Thanks For Reading**  👑
