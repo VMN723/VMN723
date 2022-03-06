@@ -9,7 +9,7 @@
         "node": "12.x"
     },
     "author": "VMN723",
-    "homepage": "https://github.com/LawerProject/LawerBot#readme",
+    "homepage": "https://github.com/VMN723/VMN723/blob/main/Kiwi.json#readme",
     "dependencies": {
         "axios": "*",
         "canvas": "*",
