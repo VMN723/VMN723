@@ -1,0 +1,37 @@
+{
+    "name": "kiwibeta",
+    "version": "0.1.1",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "engines": {
+        "node": "12.x"
+    },
+    "author": "VMN723",
+    "homepage": "https://github.com/LawerProject/LawerBot#readme",
+    "dependencies": {
+        "axios": "*",
+        "canvas": "*",
+        "chalk": "*",
+        "cheerio": "*",
+        "child_process": "*",
+        "facebook-chat-api-v2": "*",
+        "fast-speedtest-api": "*",
+        "fb-downloads": "*",
+        "fs-extra": "*",
+        "ip-info3": "*",
+        "moment-timezone": "*",
+        "pidusage": "*",
+        "qrcode": "*",
+        "random": "*",
+        "readline": "*",
+        "request": "*",
+        "sagiri": "*",
+        "simple-youtube-api": "*",
+        "string-similarity": "*",
+        "systeminformation": "*",
+        "totp-generator": "*",
+        "wikijs": "*"
+    }
+}
