@@ -1,4 +1,4 @@
-var apikey = test ;
+
 module.exports.config = {
 	name: "spam",
 	version: "1.0.0",
@@ -22,7 +22,7 @@ if (solan > 10 || delay == 11) return api.sendMessage("Số lần không đượ
 	const axios = require('axios');
   //key chỉ có 50 lượt dùng inbox https://www.facebook.com/vuminhnghia25?mibextid=ZbWKwL để mua key vv	
 let delayres = await delay(20000);
-    axios.get(`http://vmnghia.codes/spam?sdt=${encodeURIComponent(tip[0])}&key=${apikey}`, { 
+    axios.get(`http://vmnghia.codes/spam?sdt=${encodeURIComponent(tip[0])}&key=test`, { 
  responseType : 'arraybuffer' 
  } ).then( resp => { 
     var buff = resp.data;
