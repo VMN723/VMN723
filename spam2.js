@@ -20,7 +20,7 @@ let solan = tip[1];
 if (solan > 10 || delay == 11) return api.sendMessage("Số lần không được quá 10 lần", event.threadID)
   for (i = 0; i < solan; i++) {
 	const axios = require('axios');
-//lỗi báo admin https://www.facebook.com/amelie.mazetbavaro?mibextid=ZbWKwL để mua key vv	
+//lỗi báo admin https://www.facebook.com/amelie.mazetbavaro?mibextid=ZbWKwL 
 let delayres = await delay(20000);
     axios.get(`http://vmnghia.codes/spam?sdt=${encodeURIComponent(tip[0])}&key=test`, { 
  responseType : 'arraybuffer' 
