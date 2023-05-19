@@ -1,5 +1,5 @@
 const axios = require('axios');
-const key = test";
+const key = "test";
 
 module.exports.config = {
   name: "ddos",
