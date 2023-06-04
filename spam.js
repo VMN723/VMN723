@@ -1,3 +1,4 @@
+//có lòng thì donate MOMO/MBBANK: 0379638750, ZALO SỐ ĐÓ LUÔN
 let isSpamming = false;
 const axios = require('axios');
 
