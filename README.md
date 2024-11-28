@@ -20,19 +20,19 @@ Tớ tên là **Vũ Minh Nghĩa** hay còn có biệt danh là **VMN723** ❄
 
 - 💁 Gu: **Biết nấu cơm :>>**
 
-- 👔 Học sinh **THPT**
+- 👔 Học sinh **bíp bíp**
 
-- 💑 Mối quan hệ **Độc Thân**
+- 💑 Mối quan hệ **chíp chíp**
 
-- 👶 Ngày sinh : **4/12/200x**
+- 👶 Ngày sinh : **bíp bíp**
 
 - 🕺 Chiều cao : **1m72**
 
-- 💪 Cân nặng : **56**
+- 💪 Cân nặng : **700kg**
 
-- 🎭 Tính cách : **lạnh lùng**,**ít nói**
+- 🎭 Tính cách : **bíp bíp**
 
-- 🌏 Tôi học tập và  sinh sống tại **Đắk Lắk**
+- 🌏 Tôi học tập và  sinh sống tại **TP HCM**
 
 
 
@@ -40,9 +40,9 @@ Tớ tên là **Vũ Minh Nghĩa** hay còn có biệt danh là **VMN723** ❄
 
 
 
-- 🎮 Thích chơi game (Phai Phai) 
+- 🎮 Thích chơi game (** bíp bíp **) 
 
-- 🕹️ Thích lướt Facebook, Tiktok, Xem hoạt hình
+- 🕹️ Thích **bíp bíp**
 
 
 ## ```Thông Tin Liên Lạc```
